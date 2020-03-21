@@ -5,4 +5,4 @@ A ideia é que pessoas que precisam conversar possam ter acesso à uma sala virt
 
 São tempos difíceis. Precisamos nos ajudar.
 
-Ideias são bem-vindas sempre. Mas o mvp com telas de cadastro e disparo de e-mails já é algo que ajuda.
+Ideias são bem-vindas sempre. Mas o mvp com telas de cadastro e disparo de e-mails convidando para reuniões online já é algo que ajuda.
